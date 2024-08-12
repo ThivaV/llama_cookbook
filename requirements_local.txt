@@ -6,3 +6,4 @@ numpy
 matplotlib
 python-dotenv
 python-box
+gdown
