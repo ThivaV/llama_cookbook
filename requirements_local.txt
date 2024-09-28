@@ -6,4 +6,5 @@ numpy
 matplotlib
 python-dotenv
 python-box
-gdown
+gdown==5.2.0
+ollama==0.3.3
